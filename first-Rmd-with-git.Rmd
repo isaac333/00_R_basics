@@ -1,6 +1,10 @@
 ---
 title: "first Rmd with git"
-output: html_document
+author: "Jenny Bryan"
+date: "2021-09-19"
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
