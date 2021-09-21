@@ -2,6 +2,9 @@
 #' dataset `VADeaths`.
 ## here is a regular code comment, that will remain as such
 
+#' dataset
+#' Here's some prose
+#' 
 summary(VADeaths)
 
 #' Here's some more prose. I can use usual markdown syntax to make things
