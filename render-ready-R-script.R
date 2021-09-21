@@ -1,6 +1,6 @@
 #' Here's
-#' Here's SOME
-#' BLA
+
+
 
 
 #' Here's some prose in a very special comment. Let's summarize the built-in
