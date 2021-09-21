@@ -1,6 +1,10 @@
 #' Here's
 
+# 1
 
+# 2
+
+# 3
 
 
 #' Here's some prose in a very special comment. Let's summarize the built-in
